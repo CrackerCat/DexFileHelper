@@ -115,6 +115,53 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="DexDefine.h" />
+    <ClInclude Include="DexFileAnnotationItem.h" />
+    <ClInclude Include="DexFileAnnotationsDirectoryItem.h" />
+    <ClInclude Include="DexFileAnnotationSetItem.h" />
+    <ClInclude Include="DexFileAnnotationSetRefList.h" />
+    <ClInclude Include="DexFileClass.h" />
+    <ClInclude Include="DexFileClassMethod.h" />
+    <ClInclude Include="DexFileEncodedArray.h" />
+    <ClInclude Include="DexFileFieldIdx.h" />
+    <ClInclude Include="DexFileHeader.h" />
+    <ClInclude Include="DexFileHelper.h" />
+    <ClInclude Include="DexFileMap.h" />
+    <ClInclude Include="DexFileMethodCode.h" />
+    <ClInclude Include="DexFileMethodIdx.h" />
+    <ClInclude Include="DexFileProtoTypeIdx.h" />
+    <ClInclude Include="DexFileStringIdx.h" />
+    <ClInclude Include="DexFileTry.h" />
+    <ClInclude Include="DexFileTypeIdx.h" />
+    <ClInclude Include="DexFileTypeList.h" />
+    <ClInclude Include="DexFileUtils.h" />
+    <ClInclude Include="DexFileVertor.h" />
+    <ClInclude Include="DexFileWrite.h" />
+    <ClInclude Include="pch.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DexFileAnnotationItem.cpp" />
+    <ClCompile Include="DexFileAnnotationsDirectoryItem.cpp" />
+    <ClCompile Include="DexFileAnnotationSetItem.cpp" />
+    <ClCompile Include="DexFileAnnotationSetRefList.cpp" />
+    <ClCompile Include="DexFileClass.cpp" />
+    <ClCompile Include="DexFileClassMethod.cpp" />
+    <ClCompile Include="DexFileEncodedArray.cpp" />
+    <ClCompile Include="DexFileFieldIdx.cpp" />
+    <ClCompile Include="DexFileHeader.cpp" />
+    <ClCompile Include="DexFileHelper.cpp" />
+    <ClCompile Include="DexFileMap.cpp" />
+    <ClCompile Include="DexFileMethodCode.cpp" />
+    <ClCompile Include="DexFileMethodIdx.cpp" />
+    <ClCompile Include="DexFileProtoTypeIdx.cpp" />
+    <ClCompile Include="DexFileStringIdx.cpp" />
+    <ClCompile Include="DexFileTry.cpp" />
+    <ClCompile Include="DexFileTypeIdx.cpp" />
+    <ClCompile Include="DexFileTypeList.cpp" />
+    <ClCompile Include="DexFileUtils.cpp" />
+    <ClCompile Include="DexFileVertor.cpp" />
+    <ClCompile Include="DexFileWrite.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

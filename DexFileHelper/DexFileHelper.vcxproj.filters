@@ -14,4 +14,143 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DexDefine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileAnnotationItem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileAnnotationsDirectoryItem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileAnnotationSetItem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileAnnotationSetRefList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileClassMethod.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileEncodedArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileFieldIdx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileHeader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileHelper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileMap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileMethodCode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileMethodIdx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileProtoTypeIdx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileStringIdx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileTry.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileTypeIdx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileTypeList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileUtils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileVertor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DexFileWrite.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DexFileAnnotationItem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileAnnotationsDirectoryItem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileAnnotationSetItem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileAnnotationSetRefList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileClassMethod.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileEncodedArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileFieldIdx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileHeader.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileHelper.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileMap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileMethodCode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileMethodIdx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileProtoTypeIdx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileStringIdx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileTry.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileTypeIdx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileTypeList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileUtils.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileVertor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DexFileWrite.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

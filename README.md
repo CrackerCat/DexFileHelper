@@ -18,7 +18,7 @@ With this library , you can easily rewrite dex file when unpacking some apk prot
 
 *Licensed under the Apache 2.0 License*
 
-*Copyright 20168by xiaobaiyey*
+*Copyright 2018 by xiaobaiyey*
 
 
 
